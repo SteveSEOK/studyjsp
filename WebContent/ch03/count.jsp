@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="ko">
@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>카운트 해보자</title>
 </head>
-<body>
+<body>  
 	<%! int globalCount = 0; %>
 	<% int localCount = 0; %>
 	<%
