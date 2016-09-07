@@ -9,7 +9,7 @@
 </head>
 <body bgcolor="<%=bodyback_c%>">
 	<form action="">
-		<di>
+		<dl>
 			<dd>
 				<label for="id">아이디</label>
 				<input id="id"type="email"placeholder="example@aaaa.com"required>
@@ -25,7 +25,7 @@
 			<dd>
 				<input type="submit"value="등록">
 			</dd>
-		</di>
+		</dl>
 	</form>
 </body>
 </html>
